@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow：/posts/
+Disallow: /js/
+Disallow: /font/
+Disallow: /css/
+Disallow: /cur/
+
+
+
+Sitemap: https://qinzhi.cc/sitemap.xml
