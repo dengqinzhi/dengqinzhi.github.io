@@ -255,13 +255,6 @@
   </url>
   
   <url>
-    <loc>https://dengqinzhi.github.io/tags/%E5%90%B8%E7%83%9F%E6%9C%89%E5%AE%B3%E5%81%A5%E5%BA%B7/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dengqinzhi.github.io/tags/%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -269,14 +262,21 @@
   </url>
   
   <url>
-    <loc>https://dengqinzhi.github.io/tags/%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1-%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95/</loc>
+    <loc>https://dengqinzhi.github.io/tags/%E4%BA%A4%E9%80%9A%E4%BF%A1%E5%8F%B7%E7%81%AF-%E6%96%B0%E5%9B%BD%E6%A0%87%E7%BA%A2%E7%BB%BF%E7%81%AF/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dengqinzhi.github.io/tags/%E4%BA%A4%E9%80%9A%E4%BF%A1%E5%8F%B7%E7%81%AF-%E6%96%B0%E5%9B%BD%E6%A0%87%E7%BA%A2%E7%BB%BF%E7%81%AF/</loc>
+    <loc>https://dengqinzhi.github.io/tags/%E5%90%B8%E7%83%9F%E6%9C%89%E5%AE%B3%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dengqinzhi.github.io/tags/%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1-%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
